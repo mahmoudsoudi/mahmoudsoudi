@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mahmoud Soudi
-- 👀 I’m interested in NodeJS, PHP, MYSQL
+- 👀 I’m interested in NodeJS, PHP, MYSQL and Python.
 - 🌱 I’m currently learning Quantum Computing
-- 💞️ I’m looking to collaborate on NodeJS projects
+- 💞️ I’m looking to collaborate on NodeJS or LLAMA projects
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/mahmodsoudi/)
 
 <!---
